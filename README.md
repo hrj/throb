@@ -1,6 +1,6 @@
 # throb
 
-`throb` is a parser combinator library that can offer completions to the input.
+`throb` is a parser combinator library that can offer completions to the (possibly incomplete) input string.
 
 It is suitable for parsing interactive input from a human user.
 
